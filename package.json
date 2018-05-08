@@ -1,0 +1,28 @@
+{
+    "name": "cryptonote-nodejs-pool",
+    "version": "1.0",
+    "license": "GPL-2.0",
+    "author": "Muhamad Ridwan",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/muhamadridwanid/Masari-Mining-Pool.git"
+    },
+    "dependencies": {
+        "bignum": "*",
+        "async": "1",
+        "redis": "*",
+        "cli-color": "*",
+        "dateformat": "*",
+        "time-ago": "*",
+        "base58-native": "*",
+        "nodemailer": "2.7.2",
+        "nodemailer-sendmail-transport": "*",
+        "mailgun.js": "*",
+        "node-telegram-bot-api": "*",
+        "cryptonote-util": "git://github.com/muhamadridwanid/node-cryptonote-util#msr",
+        "cryptonight-hashing": "git://github.com/muhamadridwanid/node-cryptonight-hashing"
+    },
+    "engines": {
+        "node": ">=4.0"
+    }
+}

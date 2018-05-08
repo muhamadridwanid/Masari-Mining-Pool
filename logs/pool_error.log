@@ -1,0 +1,4 @@
+2018-05-07 02:33:12 (Thread 1) Could not start server listening on port 9991 (SSL): SSL certificate file not found (configuration error)
+2018-05-07 08:44:26 (Thread 1) Could not start server listening on port 9991 (SSL): SSL certificate file not found (configuration error)
+2018-05-07 08:45:10 (Thread 1) Could not start server listening on port 9991 (SSL): SSL certificate file not found (configuration error)
+2018-05-07 08:47:29 (Thread 1) Could not start server listening on port 9999 (SSL): SSL certificate file not found (configuration error)
